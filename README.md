@@ -1,2 +1,3 @@
 Hello world\n
- sed -i s/world/world\!/g README.md
+sed -i s/world/world./g README.md
+
